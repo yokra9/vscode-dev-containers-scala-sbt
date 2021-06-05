@@ -1,0 +1,7 @@
+.metals/
+.bloop/
+.ammonite/
+target/
+metals.sbt
+.bsp
+.vscode
