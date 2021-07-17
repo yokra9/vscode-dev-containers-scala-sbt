@@ -19,6 +19,12 @@
 			"bash": {
 				"path": "/bin/bash"
 			},
+			"sbt": {
+				"path": "/bin/bash",
+				"args": [
+					"sbt"
+				]
+			},
 		},
 		"terminal.integrated.defaultProfile.linux": "bash",
 		"java.home": "/docker-java-home"
